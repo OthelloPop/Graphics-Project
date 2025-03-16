@@ -1,0 +1,17 @@
+# Unity Generated Files (Do NOT commit)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio & JetBrains Rider
+.vs/
+.idea/
+
+# Other Files
+*.swp
+*.sln
+*.userprefs
