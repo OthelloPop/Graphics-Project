@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac85af604469ead40bdc75f50c13d58c
+labels:
+- prop
+- sign
+- wall
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/Sgn_LunchRm.prefab
+  uploadId: 740923

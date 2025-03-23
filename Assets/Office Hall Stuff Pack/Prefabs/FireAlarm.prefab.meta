@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9959b6d86f474564b997432e94c56b85
+labels:
+- alarm
+- prop
+- wall
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/FireAlarm.prefab
+  uploadId: 740923

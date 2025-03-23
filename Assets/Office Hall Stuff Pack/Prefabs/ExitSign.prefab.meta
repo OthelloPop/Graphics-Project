@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1cea425bcdc2ce24ba74fdada58ccb23
+labels:
+- ceiling
+- exit
+- prop
+- sign
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/ExitSign.prefab
+  uploadId: 740923

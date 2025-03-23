@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c6eee3972ba596443a5cd6c41b65c563
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Demo Scene/Demo Scripts/secondCamTrigger.cs
+  uploadId: 334381

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 86a383668ffb84241b8c775c9234fef6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Demo Scene/Demo Scripts/elevFollow.cs
+  uploadId: 334381

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ffa7072d9158fa4ea48100e714ff6f1
+labels:
+- prop
+- ceiling
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/SmokeDetector.prefab
+  uploadId: 740923

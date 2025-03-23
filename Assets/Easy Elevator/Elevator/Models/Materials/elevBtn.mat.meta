@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a95a77ce3d734247995e9d8b781edc2
+timeCreated: 1486326126
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Elevator/Models/Materials/elevBtn.mat
+  uploadId: 334381

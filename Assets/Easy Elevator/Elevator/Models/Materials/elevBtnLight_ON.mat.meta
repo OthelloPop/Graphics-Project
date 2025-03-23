@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6339e0061c2ed94b98e888637e6fd7c
+timeCreated: 1486846728
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Elevator/Models/Materials/elevBtnLight_ON.mat
+  uploadId: 334381

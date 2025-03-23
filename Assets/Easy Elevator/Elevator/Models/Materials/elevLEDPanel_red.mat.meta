@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5353a49b24475734faefa6007324cf6d
+timeCreated: 1486352187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Elevator/Models/Materials/elevLEDPanel_red.mat
+  uploadId: 334381

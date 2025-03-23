@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 391f087f9989c3e4fb6acb7190f09eea
+labels:
+- prop
+- wall
+- switch
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/RockerLightSwitch.prefab
+  uploadId: 740923

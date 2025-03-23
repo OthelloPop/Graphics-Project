@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2db24c9c26c988d4c83e02a0f0e3e0dc
+labels:
+- prop
+- sign
+- wall
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/Sgn_Elevators.prefab
+  uploadId: 740923

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 954bc23510d7b1f4fbc820a1e525a1b6
+labels:
+- prop
+- sign
+- wall
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/Sgn_HR.prefab
+  uploadId: 740923

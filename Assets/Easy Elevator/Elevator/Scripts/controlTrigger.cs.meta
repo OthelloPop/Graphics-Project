@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0051248571781994fb55019e858a0310
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Elevator/Scripts/controlTrigger.cs
+  uploadId: 334381

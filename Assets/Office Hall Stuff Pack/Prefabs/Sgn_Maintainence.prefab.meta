@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc9a7a7dd2b9a2646bb516650f1f6d23
+labels:
+- prop
+- sign
+- wall
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/Sgn_Maintainence.prefab
+  uploadId: 740923

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99deffc746d44164fa60bd1ad647d833
+timeCreated: 1486846551
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Elevator/Models/Materials/elevBtnLight_Highlight.mat
+  uploadId: 334381

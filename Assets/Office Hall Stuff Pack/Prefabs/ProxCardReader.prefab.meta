@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 197a8c1da75b8b248bd91ff0a859350a
+labels:
+- prop
+- wall
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/ProxCardReader.prefab
+  uploadId: 740923

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02e025633beb17843938b414d8a1d5f9
+timeCreated: 1486345827
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Elevator/Easy Elevator (non scripted prefabs)/ElevHallFramePREFAB.prefab
+  uploadId: 334381

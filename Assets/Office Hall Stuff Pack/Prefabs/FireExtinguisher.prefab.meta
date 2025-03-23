@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3cb317b59de14b44197d3951b44fccd2
+labels:
+- extinguisher
+- prop
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21117
+  packageName: Office Hall Stuff Pack
+  packageVersion: 1.2
+  assetPath: Assets/Office Hall Stuff Pack/Prefabs/FireExtinguisher.prefab
+  uploadId: 740923

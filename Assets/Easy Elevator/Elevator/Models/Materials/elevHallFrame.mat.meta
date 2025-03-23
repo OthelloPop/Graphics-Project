@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b96e8dee85d8a374dbf981811e69dcca
+timeCreated: 1486326127
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26266
+  packageName: Easy Elevator
+  packageVersion: 2.2
+  assetPath: Assets/Easy Elevator/Elevator/Models/Materials/elevHallFrame.mat
+  uploadId: 334381
