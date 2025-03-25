@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c97cddce1830b4198807d51da442e1cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196525
+  packageName: Starter Assets - FirstPerson | Updates in new CharacterController
+    package
+  packageVersion: 1.3
+  assetPath: Assets/StarterAssets/FirstPersonController/Prefabs/NestedParent_Unpack.prefab
+  uploadId: 691166
