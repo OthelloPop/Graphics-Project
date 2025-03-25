@@ -1,17 +1,31 @@
-# Unity Generated Files (Do NOT commit)
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Mm]emoryCaptures/
+
+# User-specific files
 UserSettings/
-
-# Visual Studio & JetBrains Rider
-.vs/
+.vscode/
 .idea/
-
-# Other Files
-*.swp
+*.csproj
+*.unityproj
 *.sln
+*.suo
+*.tmp
+*.user
 *.userprefs
+*.pidb
+*.booproj
+
+# Crash reports
+sysinfo.txt
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Rider
+*.sln.iml
