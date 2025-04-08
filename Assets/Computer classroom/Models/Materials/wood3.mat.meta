@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22ca4a32ca111f44baa5673dd0f60553
+timeCreated: 1449058532
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/wood3.mat
+  uploadId: 615775

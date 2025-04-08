@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 73f263bb3b7f0b2459a6c4b004ac0367
+timeCreated: 1449253262
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Whiteboard.prefab
+  uploadId: 615775

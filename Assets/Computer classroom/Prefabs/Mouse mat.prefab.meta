@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0df8d7655be3af840825bd1148af1f3a
+timeCreated: 1449252995
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Mouse mat.prefab
+  uploadId: 615775

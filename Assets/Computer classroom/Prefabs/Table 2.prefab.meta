@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2883c31c51455a046bada9783c20a50d
+timeCreated: 1449253161
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Table 2.prefab
+  uploadId: 615775

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 008452dd2655fe74991b22435bf5856d
+timeCreated: 1449252677
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Door.prefab
+  uploadId: 615775

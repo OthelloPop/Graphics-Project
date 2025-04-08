@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89cc28905f17c344c87c9acd37e994b1
+timeCreated: 1449253182
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Texts.prefab
+  uploadId: 615775

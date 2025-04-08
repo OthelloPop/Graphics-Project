@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0512ec81b8f174a49ba09014e3e083f8
+timeCreated: 1449252601
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Ceiling lamp.prefab
+  uploadId: 615775

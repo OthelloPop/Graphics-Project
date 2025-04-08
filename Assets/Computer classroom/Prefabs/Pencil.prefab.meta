@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65161f3d179701e4ca6467b0fe4e8846
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Pencil.prefab
+  uploadId: 615775

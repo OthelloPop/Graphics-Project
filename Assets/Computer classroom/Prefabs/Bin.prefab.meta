@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbcf0e8cc2d53e747a3fdced290fb7ca
+timeCreated: 1449252454
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Bin.prefab
+  uploadId: 615775

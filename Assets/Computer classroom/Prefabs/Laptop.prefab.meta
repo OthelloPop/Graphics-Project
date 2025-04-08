@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8285e7192992ba6448d2460f3354d73b
+timeCreated: 1449252860
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Laptop.prefab
+  uploadId: 615775

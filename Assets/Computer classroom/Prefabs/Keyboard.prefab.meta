@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f754abc6bf404d42a1200897f0ff383
+timeCreated: 1449252843
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Keyboard.prefab
+  uploadId: 615775

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf2c25d87cb60d1478c45474c5d7eb11
+timeCreated: 1449252785
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Glasses.prefab
+  uploadId: 615775

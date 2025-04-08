@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55c2810100691864f9f6739a8edbff10
+timeCreated: 1449041880
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/window.mat
+  uploadId: 615775

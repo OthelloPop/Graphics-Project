@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6521795a53d9c9944acb728a91cd9a4c
+timeCreated: 1449253031
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Notebook.prefab
+  uploadId: 615775

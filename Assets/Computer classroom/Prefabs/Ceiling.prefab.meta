@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6cebebe4b6b5e649a5176de94aceff1
+timeCreated: 1449252576
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Ceiling.prefab
+  uploadId: 615775

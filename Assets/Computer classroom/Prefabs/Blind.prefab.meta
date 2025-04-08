@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fc06c9e2fb703d41a3aebd6b75bfc21
+timeCreated: 1449252474
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Blind.prefab
+  uploadId: 615775

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5093f2e7555e8e42a789ea7ab0888a1
+timeCreated: 1449253273
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Whiteboard eraser.prefab
+  uploadId: 615775

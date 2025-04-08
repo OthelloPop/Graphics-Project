@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 952441375d4c2774a8b7753038f80fa5
+timeCreated: 1449252512
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Prefabs/Book 1.prefab
+  uploadId: 615775
