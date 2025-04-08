@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3b077d5be20d0ea449053b02eeee7004
+timeCreated: 1529532001
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121450
+  packageName: Office Ceiling Tiles
+  packageVersion: 1.1
+  assetPath: Assets/Office Ceiling Tiles/Materials/ceilingTile_noLightsB_mat.mat
+  uploadId: 399319

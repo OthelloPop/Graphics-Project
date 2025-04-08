@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58e3a66f69de0f544a08c6180e1faa80
+timeCreated: 1529532001
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121450
+  packageName: Office Ceiling Tiles
+  packageVersion: 1.1
+  assetPath: Assets/Office Ceiling Tiles/Materials/ceilingTile_camLightsB2_mat.mat
+  uploadId: 399319

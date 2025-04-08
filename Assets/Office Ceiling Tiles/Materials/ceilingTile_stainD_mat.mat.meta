@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2fd0efa1318f1a249a4733a6148ebc51
+timeCreated: 1529532001
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121450
+  packageName: Office Ceiling Tiles
+  packageVersion: 1.1
+  assetPath: Assets/Office Ceiling Tiles/Materials/ceilingTile_stainD_mat.mat
+  uploadId: 399319

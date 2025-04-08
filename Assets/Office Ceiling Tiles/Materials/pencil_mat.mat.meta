@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d607dfea65421f649ba314c4e7f34e7d
+timeCreated: 1529608612
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121450
+  packageName: Office Ceiling Tiles
+  packageVersion: 1.1
+  assetPath: Assets/Office Ceiling Tiles/Materials/pencil_mat.mat
+  uploadId: 399319

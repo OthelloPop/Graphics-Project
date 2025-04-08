@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8a6422b71dbaaa94ea575142f626dd97
+timeCreated: 1529532001
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121450
+  packageName: Office Ceiling Tiles
+  packageVersion: 1.1
+  assetPath: Assets/Office Ceiling Tiles/Materials/ceilingTile_mixLightsD_mat.mat
+  uploadId: 399319
