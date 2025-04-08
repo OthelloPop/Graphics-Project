@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6539F9A3-5C0A-EFF4-BC90-E99439B46A68}</ProjectGuid>
+    <ProjectGuid>{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -75,6 +75,7 @@
     <Compile Include="Assets\Easy Elevator\Demo Scene\Demo Scripts\elevFollow.cs" />
     <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\Easy Elevator\Elevator\Scripts\controlTrigger.cs" />
+    <Compile Include="Assets\Computer classroom\Scripts\RotateMoveCamera.cs" />
     <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\RenameNewObjects.cs" />
     <Compile Include="Assets\Easy Elevator\Demo Scene\Demo Scripts\secondCamTrigger.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
@@ -87,6 +88,7 @@
     <Compile Include="Assets\Scripts\MouseMovement.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Computer classroom\Readme.txt" />
     <None Include="Assets\Easy Elevator\Demo Scene\READ_ME_DEMO_SCENE.txt" />
     <None Include="Assets\StarterAssets\license.txt" />
     <None Include="Assets\Easy Elevator\Easy Elevator README.txt" />
