@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e9786ec5bb01c9d46bcbc0ed55eb8379
+timeCreated: 1448865915
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/mouse.mat
+  uploadId: 615775

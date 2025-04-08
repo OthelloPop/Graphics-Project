@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 214be98bc3846884aa09cf7383aa5936
+timeCreated: 1449165641
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/glasses.mat
+  uploadId: 615775

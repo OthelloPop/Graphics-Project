@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 022b6f8108de3bd46b49b5380fc1288b
+timeCreated: 1448994269
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/Proyector.mat
+  uploadId: 615775

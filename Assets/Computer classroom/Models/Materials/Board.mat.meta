@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d297be78bad80ef4d86994596339e31a
+timeCreated: 1449142455
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/Board.mat
+  uploadId: 615775

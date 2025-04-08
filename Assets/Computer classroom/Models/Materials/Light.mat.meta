@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1ff7bcf8509ed54a8758b594645bbf9
+timeCreated: 1448988667
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/Light.mat
+  uploadId: 615775

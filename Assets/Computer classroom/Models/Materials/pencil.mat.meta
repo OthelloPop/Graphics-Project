@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7448b8b14a6f5149bc285b5112baa6a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/pencil.mat
+  uploadId: 615775

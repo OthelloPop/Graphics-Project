@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a4106c5d896925459e08a787eb1e015
+timeCreated: 1448823519
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/keyboard.mat
+  uploadId: 615775

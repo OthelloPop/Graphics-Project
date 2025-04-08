@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecfd3d8833b47a047ab1632675089891
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/color material.mat
+  uploadId: 615775

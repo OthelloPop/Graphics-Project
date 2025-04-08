@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd99c5cc7d910d44fbc877173da03666
+timeCreated: 1448898002
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/molding.mat
+  uploadId: 615775

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02d0cf0d60434e3419950b5a5576ae6f
+timeCreated: 1448967858
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/Bin.mat
+  uploadId: 615775

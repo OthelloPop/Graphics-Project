@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd0ca2e28161a5e44bae7617fb498fe2
+timeCreated: 1448987864
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/ceiling metallic.mat
+  uploadId: 615775

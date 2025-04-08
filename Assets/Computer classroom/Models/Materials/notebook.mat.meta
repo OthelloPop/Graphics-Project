@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03f1ed2b3abe5c24aaf1d90bb4511f6c
+timeCreated: 1448880747
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/notebook.mat
+  uploadId: 615775

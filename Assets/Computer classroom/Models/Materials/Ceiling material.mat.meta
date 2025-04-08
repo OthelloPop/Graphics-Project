@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 707be647310ca0445ba7674d74eda539
+timeCreated: 1448977903
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/Ceiling material.mat
+  uploadId: 615775

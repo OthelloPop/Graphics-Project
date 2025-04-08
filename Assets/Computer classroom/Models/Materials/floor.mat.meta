@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7af7e2aa972113d41a1a7c3c69f79433
+timeCreated: 1448898372
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/floor.mat
+  uploadId: 615775

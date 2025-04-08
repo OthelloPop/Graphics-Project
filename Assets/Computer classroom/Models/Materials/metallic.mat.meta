@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a52666ca4dd90da4ba3e2d10411b5476
+timeCreated: 1448960806
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/metallic.mat
+  uploadId: 615775

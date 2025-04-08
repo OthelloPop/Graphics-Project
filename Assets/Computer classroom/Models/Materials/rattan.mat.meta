@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d9031f82697cc34bb6a4dbf5a654995
+timeCreated: 1449044382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/rattan.mat
+  uploadId: 615775

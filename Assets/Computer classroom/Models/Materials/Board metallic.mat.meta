@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6a546b5c617f2c43a3490d93f4288b9
+timeCreated: 1449142455
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/Board metallic.mat
+  uploadId: 615775

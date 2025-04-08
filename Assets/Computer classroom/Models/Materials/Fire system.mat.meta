@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff7949541de530849bdcb072cb938090
+timeCreated: 1449144825
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 51124
+  packageName: Computer Classroom
+  packageVersion: 1.2
+  assetPath: Assets/Computer classroom/Models/Materials/Fire system.mat
+  uploadId: 615775
