@@ -17,8 +17,6 @@ public class InteractableSwitch : MonoBehaviour
 
         isActivated = true;
 
-        // (Optional: play sound, light, etc.)
-
         Debug.Log("Switch Activated!");
         SwitchUIFeedback.Instance.ShowMessage("Switch Activated!", Color.green);
     }

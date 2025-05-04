@@ -5,8 +5,8 @@ using StarterAssets;
 public class LoopingFootstepController : MonoBehaviour
 {
     [Header("References")]
-    public AudioSource footstepAudio; // The looping AudioSource
-    public StarterAssetsInputs input; // Input component from Starter Assets
+    public AudioSource footstepAudio;
+    public StarterAssetsInputs input;
 
     [Header("Audio Settings")]
     [Range(0f, 1f)] public float footstepVolume = 0.1f;
@@ -18,7 +18,7 @@ public class LoopingFootstepController : MonoBehaviour
 
     void Start()
     {
-        Debug.Log("LoopingFootstepController started"); // Add this
+        Debug.Log("LoopingFootstepController started");
         controller = GetComponent<CharacterController>();
         if (footstepAudio != null)
         {
@@ -36,11 +36,9 @@ public class LoopingFootstepController : MonoBehaviour
         bool isMoving = controller.velocity.magnitude > movementThreshold;
         bool isRunning = input.sprint;
 
-        // Apply volume and pitch
         footstepAudio.volume = footstepVolume;
         footstepAudio.pitch = isRunning ? runPitch : walkPitch;
 
-        // Play or stop loop
         if (isGrounded && isMoving)
         {
             if (!footstepAudio.isPlaying)
@@ -52,9 +50,5 @@ public class LoopingFootstepController : MonoBehaviour
                 footstepAudio.Stop();
         }
 
-        Debug.Log("Velocity: " + controller.velocity.magnitude);
-
-        if (Input.GetKeyDown(KeyCode.F))
-            footstepAudio.Play();
     }
 }

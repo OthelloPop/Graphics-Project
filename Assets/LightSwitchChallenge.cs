@@ -1,22 +1,30 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using System.Collections;
 
 public class LightSwitchChallenge : MonoBehaviour
 {
     public static LightSwitchChallenge Instance;
+
+    public AudioSource ambientAudioSource;
+    public AudioSource powerDownAudioSource;
+    public AudioSource tickingAudioSource;
+    public AudioSource flashlightClickAudioSource;
+
+    public Light flashlight;
 
     public float timeLimit = 60f;
     private float remainingTime;
 
     public bool updateGI = true;
 
-    public TMP_Text timerText; // Assign in canvas
+    public TMP_Text timerText;
 
     private List<InteractableSwitch> allSwitches;
     private int switchesHit = 0;
-    private bool challengeActive = false;
+    public bool challengeActive = false;
 
     void Awake() => Instance = this;
 
@@ -27,6 +35,41 @@ public class LightSwitchChallenge : MonoBehaviour
 
     public void StartChallenge()
     {
+        if (ambientAudioSource != null && ambientAudioSource.isPlaying)
+            ambientAudioSource.Pause();
+
+        if (powerDownAudioSource != null)
+            powerDownAudioSource.Play();
+
+        GameObject[] lightObjects = GameObject.FindGameObjectsWithTag("ToggleSpot");
+        foreach (GameObject obj in lightObjects)
+        {
+            Light light = obj.GetComponentInChildren<Light>();
+            if (light != null)
+                light.enabled = false;
+        }
+
+        if (updateGI)
+            DynamicGI.UpdateEnvironment();
+
+        StartCoroutine(DelayedChallengeStart());
+    }
+
+    private IEnumerator DelayedChallengeStart()
+    {
+        yield return new WaitForSeconds(2f);
+
+        ObjectiveMessageController.Instance.ShowObjective("Find and activate all the light switches before time runs out!");
+
+        if (flashlight != null)
+        {
+            flashlight.enabled = true;
+            if (flashlightClickAudioSource != null)
+                flashlightClickAudioSource.Play();
+        }
+
+        yield return new WaitForSeconds(2f);
+
         GameObject[] taggedObjects = GameObject.FindGameObjectsWithTag("LightSwitch");
         allSwitches = new List<InteractableSwitch>();
 
@@ -42,6 +85,14 @@ public class LightSwitchChallenge : MonoBehaviour
         switchesHit = 0;
         remainingTime = timeLimit;
         challengeActive = true;
+
+        if (timerText != null)
+            timerText.gameObject.SetActive(true);
+
+        if (tickingAudioSource != null)
+            tickingAudioSource.Play();
+
+        Debug.Log("Challenge fully started — ticking and timer active!");
     }
 
     public void RegisterSwitchHit(InteractableSwitch sw)
@@ -75,6 +126,15 @@ public class LightSwitchChallenge : MonoBehaviour
         if (success)
         {
             Debug.Log("Challenge completed! Turning lights back on...");
+            ambientAudioSource.UnPause();
+            tickingAudioSource.Stop();
+            if (flashlight != null && flashlight.enabled)
+            {
+                flashlight.enabled = false;
+
+                if (flashlightClickAudioSource != null)
+                    flashlightClickAudioSource.Play();
+            }
 
             GameObject[] lightObjects = GameObject.FindGameObjectsWithTag("ToggleSpot");
             Debug.Log("ToggleSpot lights found: " + lightObjects.Length);
@@ -98,7 +158,8 @@ public class LightSwitchChallenge : MonoBehaviour
         }
         else
         {
-            Debug.Log("Challenge failed... triggering anomaly or fail state");
+            Debug.Log("Challenge failed... restarting level.");
+            GameManager.Instance.RestartGame();
         }
     }
 }

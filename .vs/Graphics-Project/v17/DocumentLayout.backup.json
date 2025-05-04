@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|c:\\users\\tayta\\documents\\github\\graphics-project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\scripts\\loopingfootstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loopingfootstepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|c:\\users\\tayta\\documents\\github\\graphics-project\\assets\\scripts\\interactableswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\scripts\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doortrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\lightswitchchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\lightswitchchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\scripts\\objectivemessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectivemessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\scripts\\interactableswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactableswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\LightTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LightTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\lightswitchchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|solutionrelative:assets\\lightswitchchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40003AE6-15DF-7CE4-0EE8-EA83607E1E85}|Assembly-CSharp.csproj|C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\assets\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +78,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "DoorTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\DoorTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorTrigger.cs",
+              "ToolTip": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\DoorTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T06:15:31.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:58:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:56:03.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T03:54:40.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ObjectiveMessageController.cs",
+              "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\ObjectiveMessageController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectiveMessageController.cs",
+              "ToolTip": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\ObjectiveMessageController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectiveMessageController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T03:33:51.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TriggerHelpMe.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\TriggerHelpMe.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerHelpMe.cs",
@@ -74,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "SwitchUIFeedback.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\SwitchUIFeedback.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchUIFeedback.cs",
@@ -86,19 +167,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LightSwitchChallenge.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\LightSwitchChallenge.cs",
               "RelativeDocumentMoniker": "Assets\\LightSwitchChallenge.cs",
               "ToolTip": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\LightSwitchChallenge.cs",
               "RelativeToolTip": "Assets\\LightSwitchChallenge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwJAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T01:57:25.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "PlayerInteraction.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\PlayerInteraction.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerInteraction.cs",
@@ -110,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "InteractableSwitch.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\InteractableSwitch.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableSwitch.cs",
@@ -118,12 +199,11 @@
               "RelativeToolTip": "Assets\\Scripts\\InteractableSwitch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T01:53:38.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T01:53:38.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "LightTrigger.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\LightTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LightTrigger.cs",
@@ -135,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "LightTrigger.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\LightTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\LightTrigger.cs",
@@ -146,20 +226,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoopingFootstepController.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\LoopingFootstepController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LoopingFootstepController.cs",
               "ToolTip": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\LoopingFootstepController.cs",
               "RelativeToolTip": "Assets\\Scripts\\LoopingFootstepController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T01:39:06.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T01:39:06.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "FootstepRandomizer.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Scripts\\FootstepRandomizer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FootstepRandomizer.cs",
@@ -170,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "FPSArmAnimatorController.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\FPSArmAnimatorController.cs",
               "RelativeDocumentMoniker": "Assets\\FPSArmAnimatorController.cs",
@@ -182,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "FirstPersonController.cs",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
               "RelativeDocumentMoniker": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
@@ -194,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "READ_ME_DEMO_SCENE.txt",
               "DocumentMoniker": "C:\\Users\\tayta\\Documents\\GitHub\\Graphics-Project\\Assets\\Easy Elevator\\Demo Scene\\READ_ME_DEMO_SCENE.txt",
               "RelativeDocumentMoniker": "Assets\\Easy Elevator\\Demo Scene\\READ_ME_DEMO_SCENE.txt",
