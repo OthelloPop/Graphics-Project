@@ -2,10 +2,8 @@ using UnityEngine;
 
 public class LightTrigger : MonoBehaviour
 {
-    [Header("Tag to search for lights")]
     public string lightTag = "ToggleSpot";
 
-    [Header("Optional")]
     public bool updateGI = true;
 
     private Light[] lightsToTurnOff;

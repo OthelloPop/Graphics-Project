@@ -1,7 +1,6 @@
 using UnityEngine;
 using StarterAssets;
 
-[RequireComponent(typeof(CharacterController))]
 public class LoopingFootstepController : MonoBehaviour
 {
     [Header("References")]
