@@ -62,10 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\LoopingFootstepController.cs" />
-    <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\ClearUnusedAttributes.cs" />
-    <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\SetCustomUnwrapParams.cs" />
     <Compile Include="Assets\Scripts\HoverGlow.cs" />
-    <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\CreateShadowObject.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualTouchZone.cs" />
     <Compile Include="Assets\Scripts\TypeWriterEffect.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Audio\CheckSFXVolume.cs" />
@@ -74,11 +71,9 @@
     <Compile Include="Assets\Easy Elevator\Elevator\Scripts\elevControl.cs" />
     <Compile Include="Assets\Scripts\InteractableSwitch.cs" />
     <Compile Include="Assets\Easy Elevator\Elevator\Scripts\elevHallFrameController.cs" />
+    <Compile Include="Assets\Scripts\LightSwitchChallenge.cs" />
     <Compile Include="Assets\Scripts\LightTrigger.cs" />
-    <Compile Include="Assets\PlayerInteraction.cs" />
-    <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\CustomAction.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\ThemeEditor\ThemedUIElement.cs" />
-    <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\SoftDeleteEdgesAction.cs" />
     <Compile Include="Assets\Scripts\ObjectiveMessageController.cs" />
     <Compile Include="Assets\Scripts\OozeController.cs" />
     <Compile Include="Assets\Easy Elevator\Elevator\Scripts\callBtnTrigger.cs" />
@@ -88,18 +83,15 @@
     <Compile Include="Assets\Easy Elevator\Demo Scene\Demo Scripts\elevFollow.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Audio\CheckMusicVolume.cs" />
     <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\FirstPersonController.cs" />
-    <Compile Include="Assets\LightSwitchChallenge.cs" />
     <Compile Include="Assets\Easy Elevator\Elevator\Scripts\controlTrigger.cs" />
     <Compile Include="Assets\Scripts\MainMenuUI.cs" />
     <Compile Include="Assets\Computer classroom\Scripts\RotateMoveCamera.cs" />
-    <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\RenameNewObjects.cs" />
     <Compile Include="Assets\Easy Elevator\Demo Scene\Demo Scripts\secondCamTrigger.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Misc\ExtraLinks.cs" />
     <Compile Include="Assets\Scripts\DoorTrigger.cs" />
     <Compile Include="Assets\StarterAssets\Mobile\Scripts\VirtualInputs\UIVirtualButton.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\LevelNumberUI.cs" />
-    <Compile Include="Assets\Samples\ProBuilder\6.0.5\Editor Examples\EditorCallbackViewer.cs" />
     <Compile Include="Assets\StarterAssets\FirstPersonController\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\FPSArmAnimatorController.cs" />
     <Compile Include="Assets\Scripts\SwitchUIFeedback.cs" />
@@ -107,7 +99,9 @@
     <Compile Include="Assets\Scripts\LoadingScreenController.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Managers\UIMenuManager.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Misc\ResetDemo.cs" />
+    <Compile Include="Assets\Scripts\CreatureSound.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Managers\UISettingsManager.cs" />
+    <Compile Include="Assets\Scripts\PlayerInteraction.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\SceneFadeIn.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />

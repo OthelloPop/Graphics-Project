@@ -27,6 +27,27 @@ public class GameManager : MonoBehaviour
         abnormalScenes.Add("Abnormality_LightsOff");
         abnormalScenes.Add("Abnormality_HelpMe"); 
         abnormalScenes.Add("Abnormality_Goo");
+        abnormalScenes.Add("Abnormality_Alien");
+
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+
+    void OnDestroy()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        if (scene.name == "MainMenu" || scene.name == winScene)
+        {
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+        }
+        else
+        {
+            Cursor.visible = false;
+            Cursor.lockState = CursorLockMode.Locked;
+        }
     }
 
     public void StartGame()
